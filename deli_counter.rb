@@ -4,7 +4,7 @@ def line(array)
 case arr.size
   when 0
     return "The line is currently empty."
-  when < 0 
+  
     
   when 2
     arr.join(' and ')
