@@ -5,7 +5,7 @@ case arr.size
   when 0
     return "The line is currently empty."
   when < 0 
-    arr.first
+    
   when 2
     arr.join(' and ')
   else
